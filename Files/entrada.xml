@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jugadores>
+	<jugador id="1">
+		<nombre>Diona</nombre>
+		<alta ciudad="Barcelona">12/10/2021</alta>
+		<objetos>
+			<objeto name="balsamo" id="1">
+				<cantidad>13</cantidad>
+			</objeto>
+			<objeto name="revivir" id="2">
+				<cantidad>34</cantidad>
+			</objeto>
+			<objeto name="temcard" id="3">
+				<cantidad>22</cantidad>
+			</objeto>
+		</objetos>
+		<temtems>
+			<temtem id="113">
+				<nombre>Ganki</nombre>
+				<tipo>viento</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="082">
+				<nombre>Magmis</nombre>
+				<tipo>fuego</tipo>
+				<atributo id="PS">23</atributo>
+				<atributo id="ATQ">34</atributo>
+				<atributo id="SATQ">44</atributo>
+				<atributo id="STA">32</atributo>
+				<atributo id="VEL">12</atributo>
+				<atributo id="DEF">30</atributo>
+				<atributo id="SDEF">20</atributo>
+			</temtem>
+			<temtem id="019">
+				<nombre>Ampling</nombre>
+				<tipo>rayo</tipo>
+				<atributo id="PS">23</atributo>
+				<atributo id="ATQ">22</atributo>
+				<atributo id="SATQ">45</atributo>
+				<atributo id="STA">45</atributo>
+				<atributo id="VEL">30</atributo>
+				<atributo id="DEF">80</atributo>
+				<atributo id="SDEF">20</atributo>
+			</temtem>
+			<temtem id="061">
+				<nombre>Piraniant</nombre>
+				<tipo>agua</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="039">
+				<nombre>Lapinite</nombre>
+				<tipo>cristal</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="115">
+				<nombre>Oceara</nombre>
+				<tipo>agua</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+		</temtems>
+	</jugador>
+	<jugador id="2">
+		<nombre>Dracco</nombre>
+		<alta ciudad="Barcelona">22/11/2020</alta>
+		<objetos>
+			<objeto name="revivir" id="2">
+				<cantidad>78</cantidad>
+			</objeto>
+			<objeto name="temcard" id="3">
+				<cantidad>12</cantidad>
+			</objeto>
+		</objetos>
+		<temtems>
+			<temtem id="082">
+				<nombre>Sparzy</nombre>
+				<tipo>rayo</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="061">
+				<nombre>Piraniant</nombre>
+				<tipo>agua</tipo>
+				<atributo id="PS">23</atributo>
+				<atributo id="ATQ">22</atributo>
+				<atributo id="SATQ">45</atributo>
+				<atributo id="STA">45</atributo>
+				<atributo id="VEL">30</atributo>
+				<atributo id="DEF">80</atributo>
+				<atributo id="SDEF">20</atributo>
+			</temtem>
+			<temtem id="053">
+				<nombre>Barnshe</nombre>
+				<tipo>naturaleza</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="025">
+				<nombre>Fomu</nombre>
+				<tipo>agua</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="105">
+				<nombre>Toxolotl</nombre>
+				<tipo>toxico</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+			<temtem id="138">
+				<nombre>Vulvir</nombre>
+				<tipo>fuego</tipo>
+				<atributo id="PS">49</atributo>
+				<atributo id="ATQ">40</atributo>
+				<atributo id="SATQ">50</atributo>
+				<atributo id="STA">18</atributo>
+				<atributo id="VEL">60</atributo>
+				<atributo id="DEF">40</atributo>
+				<atributo id="SDEF">50</atributo>
+			</temtem>
+		</temtems>
+	</jugador>
+</jugadores>
